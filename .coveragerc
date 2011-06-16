@@ -1,0 +1,7 @@
+[run]
+source = 'mars_rover'
+
+
+[report]
+source = 'mars_rover'
+
