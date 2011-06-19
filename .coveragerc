@@ -1,7 +1,7 @@
 [run]
-source = 'mars_rover'
+source = 'coffemaker'
 
 
 [report]
-source = 'mars_rover'
+source = 'coffemaker'
 
